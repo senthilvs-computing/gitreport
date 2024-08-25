@@ -52,9 +52,9 @@ This will be as sample cli run capture as below
 ```
 bash-3.2$ java -jar target/gitreport-1.0-SNAPSHOT.jar
 Enter Github repo in the owner/repo format . For Eg enter FasterXML/jackson for the repo https://github.com/FasterXML/jackson:
-senthilvs-computing/github-api
+FasterXML/jackson
 Enter your Github personal access token :
-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
+<ur personal access token>
 What insights you are looking for ?
 1)Open PRs in last one week
 2)Closed PRs in last one week
